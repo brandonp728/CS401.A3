@@ -1,0 +1,52 @@
+What is 2/3?
+5
+66.6
+6.66
+666
+.666
+66666666666666
+
+3
+12
+8
+If f(x) = 2x+3x, what is f(-9)?
+4
+54
+-27
+-18
+-45
+
+3
+12
+8
+What are solutions to the polynomial, x^2 - 4x + 4 = 0?
+6
+-4 or 4
+-6 or 6
+2 or -3
+-2 or 2
+-2 or -2
+2 or 4
+
+3
+12
+7
+What is 2+2?
+4
+Total protonic reversal
+4
+5
+???
+
+1
+12
+11
+What is the absolute value of the absolute value of 3?
+3
+3
+-3
+what???
+
+0
+12
+11
